@@ -1,0 +1,27 @@
+body {
+  background-color: #8CA1A5;
+}
+hr {
+  background-color: none;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #D5BFBF;
+  border-width: 5px;
+  width: 30%
+}
+h1 {
+  color:#316B83;
+}
+h3 {
+  color:#506D84;
+}
+
+/************************CLASS SELECTORS***********************
+.head {
+
+}
+
+/************************ID SELECTORS**************************
+#???? {
+
+}
